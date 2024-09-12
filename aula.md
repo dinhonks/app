@@ -30,3 +30,17 @@ Constantes
 
 Strings (textos): "" '' ``
 Number: 2 1.4
+Functions
+
+# Operadores
+
+Operadores de atribuição de valor
+Operador de concatenação
+
+## Estruturas de dados:
+
+### Arrays:
+
+Atributos e métodos
+Criação e manipulação de objetos
+Acesso a propriedades de objetos
