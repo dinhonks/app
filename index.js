@@ -1,6 +1,15 @@
-//hello world
-let mensagem = "olá, mundo!"
-{
-    const mensagem = "Olá"
+//arrays[], objetos{}
+let meta = {
+    value: 'ler um livro por mês',
+    checked: false,
 }
-console.log(mensagem);
+
+let metas = [
+    meta,
+    {
+        value:'Caminhar 20 minutos todos os dias',
+        checked: false
+    }
+]
+
+console.log(metas[0].value)
