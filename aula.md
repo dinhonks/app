@@ -55,3 +55,11 @@
 - [x] Criar, passar argumento
 - [x] Executar
 - [x] Arrow function / named function
+
+# Estrutura de repetição
+
+- [x] while
+
+# Condicionais
+
+- [] switch
